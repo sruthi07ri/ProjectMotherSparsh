@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T15:50:35 IST" name="Suite" finished-at="2023-07-12T15:52:08 IST" duration-ms="92105">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T15:50:35 IST" name="Test" finished-at="2023-07-12T15:52:08 IST" duration-ms="92105">
+      <class name="mothersTestPkg.MothersTestClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mothersTestPkg.MothersTestClass@534a5a98]" started-at="2023-07-12T15:50:36 IST" name="setUp" finished-at="2023-07-12T15:51:24 IST" duration-ms="48160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="handleFrame()[pri:0, instance:mothersTestPkg.MothersTestClass@534a5a98]" started-at="2023-07-12T15:51:24 IST" name="handleFrame" finished-at="2023-07-12T15:51:35 IST" duration-ms="11095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleFrame -->
+        <test-method signature="createAccount()[pri:1, instance:mothersTestPkg.MothersTestClass@534a5a98]" started-at="2023-07-12T15:51:35 IST" name="createAccount" finished-at="2023-07-12T15:51:49 IST" duration-ms="14337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="register()[pri:2, instance:mothersTestPkg.MothersTestClass@534a5a98]" started-at="2023-07-12T15:51:49 IST" name="register" finished-at="2023-07-12T15:52:08 IST" duration-ms="18347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- mothersTestPkg.MothersTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
